@@ -15,4 +15,7 @@ chap11/
 2.Chapter02/nltk_data/
 4.Chapter04/KantaiBERT/
 *.zip
-
+english_vocab.pkl
+french_vocab.pkl
+English.pkl
+French.pkl
