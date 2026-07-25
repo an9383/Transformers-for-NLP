@@ -1,6 +1,7 @@
 # vnev
 .vscode/
 .venv/
+venv_38/
 chap2/
 chap3/
 chap4/
@@ -14,6 +15,8 @@ chap11/
 
 2.Chapter02/nltk_data/
 4.Chapter04/KantaiBERT/
+9.Chapter09/gpt-2/
+9.Chapter09/gpt-2-train_files/
 *.zip
 english_vocab.pkl
 french_vocab.pkl
