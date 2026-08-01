@@ -1,5 +1,5 @@
 nvidia-smi
-py -3.8 -m venv venv_38
+py -3.7 -m venv venv_37
 
 # Transformers-for-NLP-2nd-Edition
 <img src="https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition/blob/main/Transformers_Rothman.png?raw=tru" alt="drawing" width="400"/>
